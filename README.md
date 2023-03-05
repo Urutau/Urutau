@@ -1,4 +1,4 @@
-# Hola, soy Cristina Cecilia Ortega 🌈
+# Hola, soy Cristina Ortega 🌈
 ## Trabajo para solucionar problemas :)
 ## 🧧 Yorozuya 🀄
 ### Full stack developer, Data Scientist & Analyst, viviendo en  Buenos Aires, Argentina.
