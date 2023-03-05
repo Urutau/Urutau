@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hola, soy Cristina Cecilia Ortega 🌈
+## Trabajo para solucionar problemas :)
+## 🧧 Yorozuya 🀄
+### Full stack developer, Data Scientist & Analyst, viviendo en  Buenos Aires, Argentina.
 
-<!--
-**Urutau/Urutau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Estos son los **comandos**:
+| Comando | Funcion |
+|-------------|---------|
+| ls | Muestra el contenido de la carpeta en que estoy trabajando. |
+| clear | Limpia la terminal. |
+| pwd | Muestra en qué carpeta estoy trabajando.
+| cd | Ingresar a una ruta. |
+| mk | Crear una carpeta. |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estos son los **alias**:
+|Alias|Comando|Origen|
+|-----|-------|------|
+|l    |ls     |Nativo|
+|cl   |clear  |Creado|
